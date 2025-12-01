@@ -44,4 +44,4 @@ pip install pandas matplotlib
 
 
 ### Ejecutar el Notebook:
-Abra el archivo AluraStoreLatam (1).ipynb en Jupyter Notebook, JupyterLab o Google Colab y ejecute todas las celdas secuencialmente para generar los resultados y el informe.
+Abra el archivo AluraStoreLatam (1).ipynb en Jupyter Notebook, JupyterLab o Google Colab y ejecute todas las celdas secuencialmente para generar los resultados y el informe
